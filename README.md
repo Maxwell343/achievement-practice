@@ -8,3 +8,5 @@ I'm learning GitHub and contributing to open source.
 Learning GitHub achievements together!
 
 Practicing co-authored commits.
+
+Author: Maxwell Mathew
